@@ -1,8 +1,8 @@
 #include <stdio.h>
+#include <format>
 
 #include "lib.hpp"
 #include "base/pointers.hpp"
-#include <format>
 
 HOOK_DEFINE_TRAMPOLINE(LoggerPoC)
 {
