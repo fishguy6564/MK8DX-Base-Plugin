@@ -2,13 +2,6 @@
 
 #include "lib.hpp"
 #include "base/pointers.hpp"
-
-namespace gear
-{
-    class RaceInfo {};
-    RaceInfo* GetRaceInfo();
-}
-
 #include <format>
 
 HOOK_DEFINE_TRAMPOLINE(LoggerPoC)
