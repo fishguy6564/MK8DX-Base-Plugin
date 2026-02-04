@@ -1,0 +1,59 @@
+[[symbols]]
+mangled = "_ZN4gear11GetRaceInfoEv"
+pattern = "8C 01 0B 9B 8C 45 40 B9 2D 00 40 B9 9F 01 0D 6B 08 15 88 1A 5F 01 09 EB EB FE FF 54 02 00 00 14"
+offset = "0x2C"
+
+[[symbols]]
+mangled = "_ZN5audio12AudSceneRace20prepareRaceSceneBgm_Ev"
+pattern = "61 0A 41 B9 21 12 F8 37 19 8B FF 97 7F A2 04 39 68"
+offset = "-0x24"
+
+[[symbols]]
+mangled = "_ZN2ui9Page_Race9onCreate_Ev"
+pattern = "F5 03 00 AA E8 07 00 32 E0 03 00 91 E8 03 00 B9"
+offset = "-0x2C"
+
+[[symbols]]
+mangled = "_ZN4gear16GetPlayerManagerEv"
+pattern = "00 00 44 F9 FD 7B C1 A8 C0 03 5F D6 FD 7B BF A9 FD 03 00 91"
+offset = "-0x10"
+
+[[symbols]]
+mangled = "_ZN2ui17Control_RaceTimer5onIn_Ev"
+pattern = "68 5E 00 F9 69 76 C3 39 0A 61 40 B9 5F 01 09 6B 44 81 49 7A"
+offset = "-0x74"
+
+[[symbols]]
+mangled = "_ZN4gear11NetworkUtil14getMyKartIndexEv"
+pattern = "A9 C3 1F 38 00 01 3F D6 FD 7B 41 A9 00 1C 00 13"
+offset = "-0x2C"
+
+[[symbols]]
+mangled = "_ZN4gear6UIUtil16getFullNumberStrEPN4sead22BufferedSafeStringBaseIDsEEij"
+pattern = "15 01 00 79 28 41 00 91 E2 03 14 AA E8 07 00 F9"
+offset = "-0x80"
+
+[[symbols]]
+mangled = "_ZN4gear9UIControl10setMessageEPN2nn4ui2d4PaneEPKDs"
+pattern = "68 02 40 F9 04 89 40 F9 E3 03 00 2A E0 03 13 AA E1 03 14 AA E2 03 1F 2A"
+offset = "-0xD4"
+
+[[symbols]]
+mangled = "_ZNK4gear9UIControl8findPaneERKN4sead14SafeStringBaseIcEE"
+pattern = "14 0D 40 F9 88 02 40 F9 00 31 40 F9 E0 07 00 F9 68 02 40 F9 08 0D 40 F9 E0 03 13 AA 00 01 3F D6"
+offset = "-0x1C"
+
+[[symbols]]
+mangled = "_ZN2ui19Control_RaceLapCoin7onInit_Ev"
+pattern = "69 4E 43 39 0A 61 40 B9 5F 01 09 6B 44 81 49 7A"
+offset = "-0x7C"
+
+[[symbols]]
+mangled = "_ZN2ui19Control_RaceLapCoin7onCalc_Ev"
+pattern = "FF 03 02 D1 F4 4F 06 A9 FD 7B 07 A9 FD C3 01 91 F3 03 00 AA 68 5E 40 F9 14 41 41 39 68 42 43 39"
+offset = "0x00"
+
+[[symbols]]
+mangled = "_ZN4gear13FrameworkUtil19getCurrentGameSceneEv"
+pattern = "08 01 40 F9 08 11 40 F9 08 05 40 F9 09 01 46 39 3F 01 1E 72 E0 03 88 9A"
+offset = "-0x08"

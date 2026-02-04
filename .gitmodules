@@ -1,0 +1,3 @@
+[submodule "external/mk8dx"]
+	path = external/mk8dx
+	url = https://github.com/fishguy6564/MK8DX-Headers
